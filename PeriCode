@@ -1,0 +1,9 @@
+$ mk ~/Peridynamics
+
+$ cd ~/Peridynamics
+
+$ git init
+
+Initialized empty Git repository in /Users/jhconradie/code/Peridynamics/.git/
+
+$ touch README
