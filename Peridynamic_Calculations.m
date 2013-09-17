@@ -1,6 +1,7 @@
 clc;
 clear all;
 
+display 'peridynamics'
 
 % Domain = [ Cell_ID, Cell_size, x_centroid, y_centroid];
 
